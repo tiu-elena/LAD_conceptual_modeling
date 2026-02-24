@@ -1,0 +1,21 @@
+{"Remember": ["Quiz 1: Introduction to Enterprise Modelling"],
+"Understand": ["Quiz 4a: Basic EDG Quiz","Quiz 4b: EDG Advanced Quizzes",
+"Quiz 5: OET","Chapter 11 Quiz", "Preparing for exercise session 2"],
+"Apply":["Quiz 2: From demand to supply","Quiz 3: Merode","Quiz 6a: FSM Quizzes",
+"Quiz 7: Attributes and Constraints","Chapter 9 Quiz","Chapter 10 Quiz",
+"Chapter 12 Quiz", "Check your understanding: Course Grades System",
+"Preparation for Exercise Session 4"],
+"Analyze":["Quiz 4c: Analyzing EDGs","Quiz 6b: Global Behaviour",
+"Quiz 8: Inheritance", "Mid-Course Practice Test"],
+"Evaluate":["Quiz 7b: FSMs - additional exercises"], 
+"ExamPart1Preparation":["Quizzes",
+"Duplicate of 'Exercise Session 1'",
+"Part of Duplicate FSMs - additional exercises'",
+"Object Interaction",	
+"Duplicate of Part of 'Exercise: Commercial company'",
+"Duplicate of 'Mid-Course Practice Test'"	
+],
+"ExamPart2Preparation":["Quizzes part 2", "Duplicate of 'Exercise Session 2'",
+"Duplicate of 'Exercise Session 4'", "Duplicate of 'Exercise Session 6'"]}
+
+

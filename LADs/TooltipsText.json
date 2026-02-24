@@ -1,0 +1,7 @@
+{"Main":"Click on this icon to access the instructions on using the dashboard.",
+    "ES":"The attendance is calculated based on signing the attendance list\ndistributed during the ES.",
+"PracticeTest":"The grade of your highest attempt is displayed.",
+"edXQuizzes":"The total average score is calculate as the average over all the quizzes\navailable on the edX platform in a particular week (including past ones).\nThe quizzes that are available but not completed are given the score of 0.\nThe distribution of quizzes across the Bloom's levels can be found in the Instructions.",
+"edXES":"The total average score is calculated as the average\nover all the online exercise sessions\navailable on the edX platform in a particular week.\nIf the bar is not displayed, the score is 0.",
+"Merlin":"The graph represent the number of the models created in the Merlin online tool.\nOnly creating new models is tracked, updating the existing models is not tracked.",
+"HA":"This visualization displays your final HA grades."}
