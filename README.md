@@ -1,4 +1,4 @@
-# LAD_conceptual_modeling
+# Learning analytics dashboard for conceptual modeling education
 
 This repository contains the code for the learning analytics dashboards for conceptual modeling education. The dashboards are presented in the paper below:
 - Tiukhova, E., Verbruggen, C., De Laet, T., Baesens, B., & Snoeck, M. (2025, June). Learning Analytics Dashboard with Peer Comparison for Student Feedback in Conceptual Modeling Education. In International Conference on Business Process Modeling, Development and Support (pp. 301-317). Cham: Springer Nature Switzerland.
