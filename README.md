@@ -52,7 +52,6 @@ pip install -r LADs/requirements.txt
 
 ## Notes
 
-- Normally, `hashes.json` should be stored in a separate database such as Firebase for better security and scalability.
 - `Data.xlsx` is an example data file containing synthetic values that mimic real data.
 - **Disclaimer**: Some logical discrepancies might arise in the way the synthetic data is generated due to edX grading idiosyncrasies.
 
@@ -70,3 +69,6 @@ To run the applications, navigate to the respective directories and execute the 
   cd LADs/peer
   python myapp.py
   ```
+## Frontend login
+- The login is possible by using login password pairs from LADs/data/Login-passwords.xlsx. The password is compared with its hash in hashes.json and if it matches, the access to the LAD is granted.
+- Normally, `hashes.json` should be stored in a separate database such as Firebase for better security and scalability.
