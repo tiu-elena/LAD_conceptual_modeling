@@ -43,10 +43,29 @@ LAD_conceptual_modeling/
 ```
 
 ## Installation
+1: check python version (should be 3.12 or 3.11)
+```bash
+py -0
+```
+if no Python3.12 is installed:
+```bash
+winget install Python.Python.3.12
+```
+verify installation:
+```bash
+py -0
+```
 
-Install the required dependencies:
+2: Create your environment:
+```bash
+py -3.12 -m venv venv
+venv\Scripts\activate
+```
+
+3:Install the required dependencies:
 
 ```bash
+python -m pip install --upgrade pip setuptools wheel
 pip install -r LADs/requirements.txt
 ```
 
